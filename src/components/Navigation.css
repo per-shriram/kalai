@@ -1,0 +1,11 @@
+.slide-nav-bar {
+  display: flex;
+  width: 20%;
+  flex-direction: column;
+}
+
+a {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
